@@ -29,7 +29,8 @@ public class InterestCalculator {
             x = x + x * y;
             z = z - 1;
         }
-
+        
+        // final_amount = initial_investemnt*(1+interest_rate)^interest_applied
 
         netGain = x - w;
 
